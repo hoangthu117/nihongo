@@ -1,11 +1,24 @@
-# Nihongo Quest Sakura — bản nâng cấp kawaii
+# Nihongo Quest Sakura v3
 
-Giữ nguyên `words.json` (187 mục) và khóa localStorage `nihongo-quest-v1`, không xóa tiến độ cũ khi cập nhật trên cùng origin. Bổ sung `grammar.json` gồm 18 điểm ngữ pháp từ bài 26–31, công thức, giải thích, ví dụ, lỗi thường gặp và thẻ tự kiểm tra. Giao diện pastel và Mèo Sakura.
+Static PWA for GitHub Pages. Includes 187 vocabulary entries and 18 grammar patterns for lessons 26-31.
 
-## Chạy thử
+## Deploy
 
-Giải nén và chạy `python3 -m http.server 8000` trong thư mục. Mở `http://localhost:8000` trên máy tính. Để dùng PWA trên iPad, triển khai cả thư mục qua HTTPS rồi mở bằng Safari. Nếu thay đổi tên miền, localStorage của tên miền cũ không tự chuyển sang tên miền mới. Hãy xuất dữ liệu tiến độ trước khi đổi tên miền.
+Unzip, open the `nihongo-quest` folder, and upload all eight files to the ROOT of your GitHub repository. Replace existing files, including `sw.js`. In repository Settings > Pages select Deploy from a branch, `main`, `/(root)`. Open the published URL in Safari and refresh. The service-worker cache has been bumped to v3.
 
-## Giới hạn
+## Data and progress
 
-Chưa kiểm thử trực tiếp Safari iPad. Ngữ pháp hiện có 18 điểm trọng tâm, không khẳng định bao phủ mọi mục của mọi ấn bản giáo trình. Bài tự kiểm tra hiện là tự nhớ và lật đáp án, chưa chấm tự động. Giọng nói tùy trình duyệt.
+The original `words.json`, `grammar.json`, and localStorage key `nihongo-quest-v1` are preserved. To move progress between domains, use Stats > Backup progress and Stats > Restore progress. Never delete Safari website data before backing up.
+
+## Improvements
+
+- Pastel kawaii UI, Sakura mascot, touch-friendly buttons.
+- Kanji colored pink, kana colored purple.
+- Detailed vocabulary panel using existing hints and Japanese example sentences.
+- Separate voice status and persistent Next button after answering.
+- SRS, boss, grammar, statistics, JSON backup/restore.
+- Safer output escaping and graceful unsupported-microphone handling.
+
+## Known limits
+
+Many vocabulary records lack verified Han-Viet readings, Vietnamese translations of their example sentences, or examples. The app does not invent them. Grammar self-checks are not auto-graded. Safari speech recognition depends on device and browser support. This release was syntax-checked but not tested on a physical iPad.
