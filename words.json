@@ -1,0 +1,1685 @@
+[
+  {
+    "id": "26-1",
+    "lesson": 26,
+    "kanji": "探します",
+    "kana": "さがします",
+    "meaning": "tìm kiếm",
+    "hint": "扌 là tay: dùng tay tìm đồ.",
+    "example": "鍵を探します。"
+  },
+  {
+    "id": "26-2",
+    "lesson": 26,
+    "kanji": "間に合います",
+    "kana": "まにあいます",
+    "meaning": "kịp giờ",
+    "hint": "間 là thời gian, 合 là khớp.",
+    "example": "電車に間に合います。"
+  },
+  {
+    "id": "26-3",
+    "lesson": 26,
+    "kanji": "拾います",
+    "kana": "ひろいます",
+    "meaning": "nhặt",
+    "hint": "扌 là tay: đưa tay nhặt lên.",
+    "example": "財布を拾いました。"
+  },
+  {
+    "id": "26-extra-10",
+    "lesson": 26,
+    "kanji": "都合が悪い",
+    "kana": "つごうがわるい",
+    "meaning": "không thuận tiện",
+    "hint": "Ghi nhớ: 都合が悪い（つごうがわるい）— không thuận tiện.",
+    "example": ""
+  },
+  {
+    "id": "26-extra-11",
+    "lesson": 26,
+    "kanji": "気分がいい",
+    "kana": "きぶんがいい",
+    "meaning": "cảm thấy khỏe",
+    "hint": "Ghi nhớ: 気分がいい（きぶんがいい）— cảm thấy khỏe.",
+    "example": ""
+  },
+  {
+    "id": "26-extra-12",
+    "lesson": 26,
+    "kanji": "気分が悪い",
+    "kana": "きぶんがわるい",
+    "meaning": "cảm thấy không khỏe",
+    "hint": "Ghi nhớ: 気分が悪い（きぶんがわるい）— cảm thấy không khỏe.",
+    "example": ""
+  },
+  {
+    "id": "26-extra-13",
+    "lesson": 26,
+    "kanji": "新聞社",
+    "kana": "しんぶんしゃ",
+    "meaning": "tòa soạn báo",
+    "hint": "Ghi nhớ: 新聞社（しんぶんしゃ）— tòa soạn báo.",
+    "example": ""
+  },
+  {
+    "id": "26-extra-14",
+    "lesson": 26,
+    "kanji": "柔道",
+    "kana": "じゅうどう",
+    "meaning": "judo",
+    "hint": "Ghi nhớ: 柔道（じゅうどう）— judo.",
+    "example": ""
+  },
+  {
+    "id": "26-extra-15",
+    "lesson": 26,
+    "kanji": "運動会",
+    "kana": "うんどうかい",
+    "meaning": "hội thao",
+    "hint": "Ghi nhớ: 運動会（うんどうかい）— hội thao.",
+    "example": ""
+  },
+  {
+    "id": "26-extra-16",
+    "lesson": 26,
+    "kanji": "場所",
+    "kana": "ばしょ",
+    "meaning": "địa điểm",
+    "hint": "Ghi nhớ: 場所（ばしょ）— địa điểm.",
+    "example": ""
+  },
+  {
+    "id": "26-extra-17",
+    "lesson": 26,
+    "kanji": "ボランティア",
+    "kana": "ボランティア",
+    "meaning": "tình nguyện viên",
+    "hint": "Ghi nhớ: ボランティア（ボランティア）— tình nguyện viên.",
+    "example": ""
+  },
+  {
+    "id": "26-extra-18",
+    "lesson": 26,
+    "kanji": "財布",
+    "kana": "さいふ",
+    "meaning": "ví tiền",
+    "hint": "Ghi nhớ: 財布（さいふ）— ví tiền.",
+    "example": ""
+  },
+  {
+    "id": "26-extra-19",
+    "lesson": 26,
+    "kanji": "ごみ",
+    "kana": "ごみ",
+    "meaning": "rác",
+    "hint": "Ghi nhớ: ごみ（ごみ）— rác.",
+    "example": ""
+  },
+  {
+    "id": "26-extra-20",
+    "lesson": 26,
+    "kanji": "燃えます",
+    "kana": "もえます",
+    "meaning": "cháy",
+    "hint": "Ghi nhớ: 燃えます（もえます）— cháy.",
+    "example": ""
+  },
+  {
+    "id": "26-extra-21",
+    "lesson": 26,
+    "kanji": "連絡します",
+    "kana": "れんらくします",
+    "meaning": "liên lạc",
+    "hint": "Ghi nhớ: 連絡します（れんらくします）— liên lạc.",
+    "example": ""
+  },
+  {
+    "id": "26-extra-22",
+    "lesson": 26,
+    "kanji": "片づきます",
+    "kana": "かたづきます",
+    "meaning": "được dọn gọn",
+    "hint": "Ghi nhớ: 片づきます（かたづきます）— được dọn gọn.",
+    "example": ""
+  },
+  {
+    "id": "26-extra-4",
+    "lesson": 26,
+    "kanji": "診ます",
+    "kana": "みます",
+    "meaning": "khám bệnh",
+    "hint": "Ghi nhớ: 診ます（みます）— khám bệnh.",
+    "example": ""
+  },
+  {
+    "id": "26-extra-5",
+    "lesson": 26,
+    "kanji": "遅れます",
+    "kana": "おくれます",
+    "meaning": "đến muộn",
+    "hint": "Ghi nhớ: 遅れます（おくれます）— đến muộn.",
+    "example": ""
+  },
+  {
+    "id": "26-extra-6",
+    "lesson": 26,
+    "kanji": "やります",
+    "kana": "やります",
+    "meaning": "làm; cho (động vật, cây)",
+    "hint": "Ghi nhớ: やります（やります）— làm; cho (động vật, cây).",
+    "example": ""
+  },
+  {
+    "id": "26-extra-7",
+    "lesson": 26,
+    "kanji": "参加します",
+    "kana": "さんかします",
+    "meaning": "tham gia",
+    "hint": "Ghi nhớ: 参加します（さんかします）— tham gia.",
+    "example": ""
+  },
+  {
+    "id": "26-extra-8",
+    "lesson": 26,
+    "kanji": "申し込みます",
+    "kana": "もうしこみます",
+    "meaning": "đăng ký",
+    "hint": "Ghi nhớ: 申し込みます（もうしこみます）— đăng ký.",
+    "example": ""
+  },
+  {
+    "id": "26-extra-9",
+    "lesson": 26,
+    "kanji": "都合がいい",
+    "kana": "つごうがいい",
+    "meaning": "thuận tiện",
+    "hint": "Ghi nhớ: 都合がいい（つごうがいい）— thuận tiện.",
+    "example": ""
+  },
+  {
+    "id": "27-1",
+    "lesson": 27,
+    "kanji": "見えます",
+    "kana": "みえます",
+    "meaning": "nhìn thấy được",
+    "hint": "見 là nhìn.",
+    "example": "山が見えます。"
+  },
+  {
+    "id": "27-2",
+    "lesson": 27,
+    "kanji": "聞こえます",
+    "kana": "きこえます",
+    "meaning": "nghe thấy được",
+    "hint": "聞 chứa 耳 (tai).",
+    "example": "音が聞こえます。"
+  },
+  {
+    "id": "27-extra-10",
+    "lesson": 27,
+    "kanji": "鳥",
+    "kana": "とり",
+    "meaning": "chim",
+    "hint": "Ghi nhớ: 鳥（とり）— chim.",
+    "example": ""
+  },
+  {
+    "id": "27-extra-11",
+    "lesson": 27,
+    "kanji": "声",
+    "kana": "こえ",
+    "meaning": "giọng nói",
+    "hint": "Ghi nhớ: 声（こえ）— giọng nói.",
+    "example": ""
+  },
+  {
+    "id": "27-extra-12",
+    "lesson": 27,
+    "kanji": "波",
+    "kana": "なみ",
+    "meaning": "sóng",
+    "hint": "Ghi nhớ: 波（なみ）— sóng.",
+    "example": ""
+  },
+  {
+    "id": "27-extra-13",
+    "lesson": 27,
+    "kanji": "花火",
+    "kana": "はなび",
+    "meaning": "pháo hoa",
+    "hint": "Ghi nhớ: 花火（はなび）— pháo hoa.",
+    "example": ""
+  },
+  {
+    "id": "27-extra-14",
+    "lesson": 27,
+    "kanji": "景色",
+    "kana": "けしき",
+    "meaning": "phong cảnh",
+    "hint": "Ghi nhớ: 景色（けしき）— phong cảnh.",
+    "example": ""
+  },
+  {
+    "id": "27-extra-15",
+    "lesson": 27,
+    "kanji": "昼間",
+    "kana": "ひるま",
+    "meaning": "ban ngày",
+    "hint": "Ghi nhớ: 昼間（ひるま）— ban ngày.",
+    "example": ""
+  },
+  {
+    "id": "27-extra-16",
+    "lesson": 27,
+    "kanji": "昔",
+    "kana": "むかし",
+    "meaning": "ngày xưa",
+    "hint": "Ghi nhớ: 昔（むかし）— ngày xưa.",
+    "example": ""
+  },
+  {
+    "id": "27-extra-17",
+    "lesson": 27,
+    "kanji": "道具",
+    "kana": "どうぐ",
+    "meaning": "dụng cụ",
+    "hint": "Ghi nhớ: 道具（どうぐ）— dụng cụ.",
+    "example": ""
+  },
+  {
+    "id": "27-extra-18",
+    "lesson": 27,
+    "kanji": "家具",
+    "kana": "かぐ",
+    "meaning": "đồ nội thất",
+    "hint": "Ghi nhớ: 家具（かぐ）— đồ nội thất.",
+    "example": ""
+  },
+  {
+    "id": "27-extra-19",
+    "lesson": 27,
+    "kanji": "家",
+    "kana": "いえ",
+    "meaning": "nhà",
+    "hint": "Ghi nhớ: 家（いえ）— nhà.",
+    "example": ""
+  },
+  {
+    "id": "27-extra-20",
+    "lesson": 27,
+    "kanji": "マンション",
+    "kana": "マンション",
+    "meaning": "chung cư",
+    "hint": "Ghi nhớ: マンション（マンション）— chung cư.",
+    "example": ""
+  },
+  {
+    "id": "27-extra-21",
+    "lesson": 27,
+    "kanji": "台所",
+    "kana": "だいどころ",
+    "meaning": "nhà bếp",
+    "hint": "Ghi nhớ: 台所（だいどころ）— nhà bếp.",
+    "example": ""
+  },
+  {
+    "id": "27-extra-22",
+    "lesson": 27,
+    "kanji": "教室",
+    "kana": "きょうしつ",
+    "meaning": "phòng học",
+    "hint": "Ghi nhớ: 教室（きょうしつ）— phòng học.",
+    "example": ""
+  },
+  {
+    "id": "27-extra-23",
+    "lesson": 27,
+    "kanji": "パーティールーム",
+    "kana": "パーティールーム",
+    "meaning": "phòng tiệc",
+    "hint": "Ghi nhớ: パーティールーム（パーティールーム）— phòng tiệc.",
+    "example": ""
+  },
+  {
+    "id": "27-extra-24",
+    "lesson": 27,
+    "kanji": "方",
+    "kana": "かた",
+    "meaning": "người (cách nói lịch sự)",
+    "hint": "Ghi nhớ: 方（かた）— người (cách nói lịch sự).",
+    "example": ""
+  },
+  {
+    "id": "27-extra-25",
+    "lesson": 27,
+    "kanji": "後",
+    "kana": "あと",
+    "meaning": "sau",
+    "hint": "Ghi nhớ: 後（あと）— sau.",
+    "example": ""
+  },
+  {
+    "id": "27-extra-26",
+    "lesson": 27,
+    "kanji": "はっきり",
+    "kana": "はっきり",
+    "meaning": "rõ ràng",
+    "hint": "Ghi nhớ: はっきり（はっきり）— rõ ràng.",
+    "example": ""
+  },
+  {
+    "id": "27-extra-27",
+    "lesson": 27,
+    "kanji": "ほとんど",
+    "kana": "ほとんど",
+    "meaning": "hầu hết",
+    "hint": "Ghi nhớ: ほとんど（ほとんど）— hầu hết.",
+    "example": ""
+  },
+  {
+    "id": "27-extra-3",
+    "lesson": 27,
+    "kanji": "飼います",
+    "kana": "かいます",
+    "meaning": "nuôi thú",
+    "hint": "Ghi nhớ: 飼います（かいます）— nuôi thú.",
+    "example": ""
+  },
+  {
+    "id": "27-extra-4",
+    "lesson": 27,
+    "kanji": "建てます",
+    "kana": "たてます",
+    "meaning": "xây dựng",
+    "hint": "Ghi nhớ: 建てます（たてます）— xây dựng.",
+    "example": ""
+  },
+  {
+    "id": "27-extra-5",
+    "lesson": 27,
+    "kanji": "走ります",
+    "kana": "はしります",
+    "meaning": "chạy",
+    "hint": "Ghi nhớ: 走ります（はしります）— chạy.",
+    "example": ""
+  },
+  {
+    "id": "27-extra-6",
+    "lesson": 27,
+    "kanji": "取ります",
+    "kana": "とります",
+    "meaning": "lấy; nghỉ (phép)",
+    "hint": "Ghi nhớ: 取ります（とります）— lấy; nghỉ (phép).",
+    "example": ""
+  },
+  {
+    "id": "27-extra-7",
+    "lesson": 27,
+    "kanji": "できます",
+    "kana": "できます",
+    "meaning": "được hoàn thành; có thể",
+    "hint": "Ghi nhớ: できます（できます）— được hoàn thành; có thể.",
+    "example": ""
+  },
+  {
+    "id": "27-extra-8",
+    "lesson": 27,
+    "kanji": "開きます",
+    "kana": "ひらきます",
+    "meaning": "mở; tổ chức",
+    "hint": "Ghi nhớ: 開きます（ひらきます）— mở; tổ chức.",
+    "example": ""
+  },
+  {
+    "id": "27-extra-9",
+    "lesson": 27,
+    "kanji": "ペット",
+    "kana": "ペット",
+    "meaning": "thú cưng",
+    "hint": "Ghi nhớ: ペット（ペット）— thú cưng.",
+    "example": ""
+  },
+  {
+    "id": "28-1",
+    "lesson": 28,
+    "kanji": "売れます",
+    "kana": "うれます",
+    "meaning": "bán được",
+    "hint": "売 là bán; 売れます là hàng bán được.",
+    "example": "この本はよく売れます。"
+  },
+  {
+    "id": "28-2",
+    "lesson": 28,
+    "kanji": "通います",
+    "kana": "かよいます",
+    "meaning": "đi lại thường xuyên",
+    "hint": "通 là thông qua, đi lại.",
+    "example": "学校に通います。"
+  },
+  {
+    "id": "28-extra-10",
+    "lesson": 28,
+    "kanji": "偉い",
+    "kana": "えらい",
+    "meaning": "vĩ đại; đáng nể",
+    "hint": "Ghi nhớ: 偉い（えらい）— vĩ đại; đáng nể.",
+    "example": ""
+  },
+  {
+    "id": "28-extra-11",
+    "lesson": 28,
+    "kanji": "ちょうどいい",
+    "kana": "ちょうどいい",
+    "meaning": "vừa vặn",
+    "hint": "Ghi nhớ: ちょうどいい（ちょうどいい）— vừa vặn.",
+    "example": ""
+  },
+  {
+    "id": "28-extra-12",
+    "lesson": 28,
+    "kanji": "習慣",
+    "kana": "しゅうかん",
+    "meaning": "thói quen",
+    "hint": "Ghi nhớ: 習慣（しゅうかん）— thói quen.",
+    "example": ""
+  },
+  {
+    "id": "28-extra-13",
+    "lesson": 28,
+    "kanji": "経験",
+    "kana": "けいけん",
+    "meaning": "kinh nghiệm",
+    "hint": "Ghi nhớ: 経験（けいけん）— kinh nghiệm.",
+    "example": ""
+  },
+  {
+    "id": "28-extra-14",
+    "lesson": 28,
+    "kanji": "力",
+    "kana": "ちから",
+    "meaning": "sức lực",
+    "hint": "Ghi nhớ: 力（ちから）— sức lực.",
+    "example": ""
+  },
+  {
+    "id": "28-extra-15",
+    "lesson": 28,
+    "kanji": "人気",
+    "kana": "にんき",
+    "meaning": "được yêu thích",
+    "hint": "Ghi nhớ: 人気（にんき）— được yêu thích.",
+    "example": ""
+  },
+  {
+    "id": "28-extra-16",
+    "lesson": 28,
+    "kanji": "形",
+    "kana": "かたち",
+    "meaning": "hình dạng",
+    "hint": "Ghi nhớ: 形（かたち）— hình dạng.",
+    "example": ""
+  },
+  {
+    "id": "28-extra-17",
+    "lesson": 28,
+    "kanji": "色",
+    "kana": "いろ",
+    "meaning": "màu sắc",
+    "hint": "Ghi nhớ: 色（いろ）— màu sắc.",
+    "example": ""
+  },
+  {
+    "id": "28-extra-18",
+    "lesson": 28,
+    "kanji": "味",
+    "kana": "あじ",
+    "meaning": "vị",
+    "hint": "Ghi nhớ: 味（あじ）— vị.",
+    "example": ""
+  },
+  {
+    "id": "28-extra-19",
+    "lesson": 28,
+    "kanji": "ガム",
+    "kana": "ガム",
+    "meaning": "kẹo cao su",
+    "hint": "Ghi nhớ: ガム（ガム）— kẹo cao su.",
+    "example": ""
+  },
+  {
+    "id": "28-extra-20",
+    "lesson": 28,
+    "kanji": "品物",
+    "kana": "しなもの",
+    "meaning": "hàng hóa",
+    "hint": "Ghi nhớ: 品物（しなもの）— hàng hóa.",
+    "example": ""
+  },
+  {
+    "id": "28-extra-21",
+    "lesson": 28,
+    "kanji": "値段",
+    "kana": "ねだん",
+    "meaning": "giá tiền",
+    "hint": "Ghi nhớ: 値段（ねだん）— giá tiền.",
+    "example": ""
+  },
+  {
+    "id": "28-extra-22",
+    "lesson": 28,
+    "kanji": "給料",
+    "kana": "きゅうりょう",
+    "meaning": "lương",
+    "hint": "Ghi nhớ: 給料（きゅうりょう）— lương.",
+    "example": ""
+  },
+  {
+    "id": "28-extra-23",
+    "lesson": 28,
+    "kanji": "ボーナス",
+    "kana": "ボーナス",
+    "meaning": "tiền thưởng",
+    "hint": "Ghi nhớ: ボーナス（ボーナス）— tiền thưởng.",
+    "example": ""
+  },
+  {
+    "id": "28-extra-24",
+    "lesson": 28,
+    "kanji": "番組",
+    "kana": "ばんぐみ",
+    "meaning": "chương trình",
+    "hint": "Ghi nhớ: 番組（ばんぐみ）— chương trình.",
+    "example": ""
+  },
+  {
+    "id": "28-extra-25",
+    "lesson": 28,
+    "kanji": "小説",
+    "kana": "しょうせつ",
+    "meaning": "tiểu thuyết",
+    "hint": "Ghi nhớ: 小説（しょうせつ）— tiểu thuyết.",
+    "example": ""
+  },
+  {
+    "id": "28-extra-26",
+    "lesson": 28,
+    "kanji": "小説家",
+    "kana": "しょうせつか",
+    "meaning": "tiểu thuyết gia",
+    "hint": "Ghi nhớ: 小説家（しょうせつか）— tiểu thuyết gia.",
+    "example": ""
+  },
+  {
+    "id": "28-extra-27",
+    "lesson": 28,
+    "kanji": "歌手",
+    "kana": "かしゅ",
+    "meaning": "ca sĩ",
+    "hint": "Ghi nhớ: 歌手（かしゅ）— ca sĩ.",
+    "example": ""
+  },
+  {
+    "id": "28-extra-28",
+    "lesson": 28,
+    "kanji": "管理人",
+    "kana": "かんりにん",
+    "meaning": "người quản lý",
+    "hint": "Ghi nhớ: 管理人（かんりにん）— người quản lý.",
+    "example": ""
+  },
+  {
+    "id": "28-extra-29",
+    "lesson": 28,
+    "kanji": "息子",
+    "kana": "むすこ",
+    "meaning": "con trai (của mình)",
+    "hint": "Ghi nhớ: 息子（むすこ）— con trai (của mình).",
+    "example": ""
+  },
+  {
+    "id": "28-extra-3",
+    "lesson": 28,
+    "kanji": "踊ります",
+    "kana": "おどります",
+    "meaning": "nhảy múa",
+    "hint": "Ghi nhớ: 踊ります（おどります）— nhảy múa.",
+    "example": ""
+  },
+  {
+    "id": "28-extra-30",
+    "lesson": 28,
+    "kanji": "娘",
+    "kana": "むすめ",
+    "meaning": "con gái (của mình)",
+    "hint": "Ghi nhớ: 娘（むすめ）— con gái (của mình).",
+    "example": ""
+  },
+  {
+    "id": "28-extra-31",
+    "lesson": 28,
+    "kanji": "自分",
+    "kana": "じぶん",
+    "meaning": "bản thân",
+    "hint": "Ghi nhớ: 自分（じぶん）— bản thân.",
+    "example": ""
+  },
+  {
+    "id": "28-extra-32",
+    "lesson": 28,
+    "kanji": "将来",
+    "kana": "しょうらい",
+    "meaning": "tương lai",
+    "hint": "Ghi nhớ: 将来（しょうらい）— tương lai.",
+    "example": ""
+  },
+  {
+    "id": "28-extra-33",
+    "lesson": 28,
+    "kanji": "しばらく",
+    "kana": "しばらく",
+    "meaning": "một lúc; một thời gian",
+    "hint": "Ghi nhớ: しばらく（しばらく）— một lúc; một thời gian.",
+    "example": ""
+  },
+  {
+    "id": "28-extra-34",
+    "lesson": 28,
+    "kanji": "たいてい",
+    "kana": "たいてい",
+    "meaning": "thường; phần lớn",
+    "hint": "Ghi nhớ: たいてい（たいてい）— thường; phần lớn.",
+    "example": ""
+  },
+  {
+    "id": "28-extra-35",
+    "lesson": 28,
+    "kanji": "それに",
+    "kana": "それに",
+    "meaning": "hơn nữa",
+    "hint": "Ghi nhớ: それに（それに）— hơn nữa.",
+    "example": ""
+  },
+  {
+    "id": "28-extra-36",
+    "lesson": 28,
+    "kanji": "それで",
+    "kana": "それで",
+    "meaning": "vì vậy",
+    "hint": "Ghi nhớ: それで（それで）— vì vậy.",
+    "example": ""
+  },
+  {
+    "id": "28-extra-4",
+    "lesson": 28,
+    "kanji": "かみます",
+    "kana": "かみます",
+    "meaning": "nhai; cắn",
+    "hint": "Ghi nhớ: かみます（かみます）— nhai; cắn.",
+    "example": ""
+  },
+  {
+    "id": "28-extra-5",
+    "lesson": 28,
+    "kanji": "選びます",
+    "kana": "えらびます",
+    "meaning": "lựa chọn",
+    "hint": "Ghi nhớ: 選びます（えらびます）— lựa chọn.",
+    "example": ""
+  },
+  {
+    "id": "28-extra-6",
+    "lesson": 28,
+    "kanji": "メモします",
+    "kana": "メモします",
+    "meaning": "ghi chú",
+    "hint": "Ghi nhớ: メモします（メモします）— ghi chú.",
+    "example": ""
+  },
+  {
+    "id": "28-extra-7",
+    "lesson": 28,
+    "kanji": "まじめ",
+    "kana": "まじめ",
+    "meaning": "nghiêm túc",
+    "hint": "Ghi nhớ: まじめ（まじめ）— nghiêm túc.",
+    "example": ""
+  },
+  {
+    "id": "28-extra-8",
+    "lesson": 28,
+    "kanji": "熱心",
+    "kana": "ねっしん",
+    "meaning": "nhiệt tình",
+    "hint": "Ghi nhớ: 熱心（ねっしん）— nhiệt tình.",
+    "example": ""
+  },
+  {
+    "id": "28-extra-9",
+    "lesson": 28,
+    "kanji": "優しい",
+    "kana": "やさしい",
+    "meaning": "hiền; tốt bụng",
+    "hint": "Ghi nhớ: 優しい（やさしい）— hiền; tốt bụng.",
+    "example": ""
+  },
+  {
+    "id": "29-1",
+    "lesson": 29,
+    "kanji": "開きます",
+    "kana": "あきます",
+    "meaning": "mở ra",
+    "hint": "開 có 門 là cánh cửa.",
+    "example": "ドアが開きます。"
+  },
+  {
+    "id": "29-2",
+    "lesson": 29,
+    "kanji": "閉まります",
+    "kana": "しまります",
+    "meaning": "đóng lại",
+    "hint": "閉 có 門 là cánh cửa.",
+    "example": "ドアが閉まります。"
+  },
+  {
+    "id": "29-3",
+    "lesson": 29,
+    "kanji": "壊れます",
+    "kana": "こわれます",
+    "meaning": "bị hỏng",
+    "hint": "Đồ rơi xuống đất và hỏng.",
+    "example": "時計が壊れました。"
+  },
+  {
+    "id": "29-4",
+    "lesson": 29,
+    "kanji": "汚れます",
+    "kana": "よごれます",
+    "meaning": "bị bẩn",
+    "hint": "氵 gợi liên tưởng vết bẩn, nước bẩn.",
+    "example": "服が汚れました。"
+  },
+  {
+    "id": "29-5",
+    "lesson": 29,
+    "kanji": "直ります",
+    "kana": "なおります",
+    "meaning": "được sửa xong",
+    "hint": "直 là thẳng, đúng trở lại.",
+    "example": "テレビが直りました。"
+  },
+  {
+    "id": "29-6",
+    "lesson": 29,
+    "kanji": "忘れ物",
+    "kana": "わすれもの",
+    "meaning": "đồ để quên",
+    "hint": "忘 là quên, 物 là đồ vật.",
+    "example": "忘れ物をしました。"
+  },
+  {
+    "id": "29-extra-10",
+    "lesson": 29,
+    "kanji": "折れます",
+    "kana": "おれます",
+    "meaning": "bị gãy",
+    "hint": "Ghi nhớ: 折れます（おれます）— bị gãy.",
+    "example": ""
+  },
+  {
+    "id": "29-extra-11",
+    "lesson": 29,
+    "kanji": "破れます",
+    "kana": "やぶれます",
+    "meaning": "bị rách",
+    "hint": "Ghi nhớ: 破れます（やぶれます）— bị rách.",
+    "example": ""
+  },
+  {
+    "id": "29-extra-12",
+    "lesson": 29,
+    "kanji": "外れます",
+    "kana": "はずれます",
+    "meaning": "bị tuột; rời ra",
+    "hint": "Ghi nhớ: 外れます（はずれます）— bị tuột; rời ra.",
+    "example": ""
+  },
+  {
+    "id": "29-extra-13",
+    "lesson": 29,
+    "kanji": "止まります",
+    "kana": "とまります",
+    "meaning": "dừng lại",
+    "hint": "Ghi nhớ: 止まります（とまります）— dừng lại.",
+    "example": ""
+  },
+  {
+    "id": "29-extra-14",
+    "lesson": 29,
+    "kanji": "間違えます",
+    "kana": "まちがえます",
+    "meaning": "nhầm; mắc lỗi",
+    "hint": "Ghi nhớ: 間違えます（まちがえます）— nhầm; mắc lỗi.",
+    "example": ""
+  },
+  {
+    "id": "29-extra-15",
+    "lesson": 29,
+    "kanji": "落とします",
+    "kana": "おとします",
+    "meaning": "đánh rơi",
+    "hint": "Ghi nhớ: 落とします（おとします）— đánh rơi.",
+    "example": ""
+  },
+  {
+    "id": "29-extra-16",
+    "lesson": 29,
+    "kanji": "掛かります",
+    "kana": "かかります",
+    "meaning": "được treo; bị khóa",
+    "hint": "Ghi nhớ: 掛かります（かかります）— được treo; bị khóa.",
+    "example": ""
+  },
+  {
+    "id": "29-extra-17",
+    "lesson": 29,
+    "kanji": "拭きます",
+    "kana": "ふきます",
+    "meaning": "lau",
+    "hint": "Ghi nhớ: 拭きます（ふきます）— lau.",
+    "example": ""
+  },
+  {
+    "id": "29-extra-18",
+    "lesson": 29,
+    "kanji": "取り替えます",
+    "kana": "とりかえます",
+    "meaning": "thay thế",
+    "hint": "Ghi nhớ: 取り替えます（とりかえます）— thay thế.",
+    "example": ""
+  },
+  {
+    "id": "29-extra-19",
+    "lesson": 29,
+    "kanji": "片づけます",
+    "kana": "かたづけます",
+    "meaning": "dọn dẹp",
+    "hint": "Ghi nhớ: 片づけます（かたづけます）— dọn dẹp.",
+    "example": ""
+  },
+  {
+    "id": "29-extra-20",
+    "lesson": 29,
+    "kanji": "皿",
+    "kana": "さら",
+    "meaning": "đĩa",
+    "hint": "Ghi nhớ: 皿（さら）— đĩa.",
+    "example": ""
+  },
+  {
+    "id": "29-extra-21",
+    "lesson": 29,
+    "kanji": "茶わん",
+    "kana": "ちゃわん",
+    "meaning": "bát cơm",
+    "hint": "Ghi nhớ: 茶わん（ちゃわん）— bát cơm.",
+    "example": ""
+  },
+  {
+    "id": "29-extra-22",
+    "lesson": 29,
+    "kanji": "コップ",
+    "kana": "コップ",
+    "meaning": "cốc",
+    "hint": "Ghi nhớ: コップ（コップ）— cốc.",
+    "example": ""
+  },
+  {
+    "id": "29-extra-23",
+    "lesson": 29,
+    "kanji": "ガラス",
+    "kana": "ガラス",
+    "meaning": "kính; thủy tinh",
+    "hint": "Ghi nhớ: ガラス（ガラス）— kính; thủy tinh.",
+    "example": ""
+  },
+  {
+    "id": "29-extra-24",
+    "lesson": 29,
+    "kanji": "袋",
+    "kana": "ふくろ",
+    "meaning": "túi",
+    "hint": "Ghi nhớ: 袋（ふくろ）— túi.",
+    "example": ""
+  },
+  {
+    "id": "29-extra-25",
+    "lesson": 29,
+    "kanji": "枝",
+    "kana": "えだ",
+    "meaning": "cành cây",
+    "hint": "Ghi nhớ: 枝（えだ）— cành cây.",
+    "example": ""
+  },
+  {
+    "id": "29-extra-26",
+    "lesson": 29,
+    "kanji": "駅員",
+    "kana": "えきいん",
+    "meaning": "nhân viên nhà ga",
+    "hint": "Ghi nhớ: 駅員（えきいん）— nhân viên nhà ga.",
+    "example": ""
+  },
+  {
+    "id": "29-extra-27",
+    "lesson": 29,
+    "kanji": "この辺",
+    "kana": "このへん",
+    "meaning": "khu vực này",
+    "hint": "Ghi nhớ: この辺（このへん）— khu vực này.",
+    "example": ""
+  },
+  {
+    "id": "29-extra-28",
+    "lesson": 29,
+    "kanji": "このくらい",
+    "kana": "このくらい",
+    "meaning": "khoảng chừng này",
+    "hint": "Ghi nhớ: このくらい（このくらい）— khoảng chừng này.",
+    "example": ""
+  },
+  {
+    "id": "29-extra-29",
+    "lesson": 29,
+    "kanji": "網棚",
+    "kana": "あみだな",
+    "meaning": "giá để hành lý",
+    "hint": "Ghi nhớ: 網棚（あみだな）— giá để hành lý.",
+    "example": ""
+  },
+  {
+    "id": "29-extra-30",
+    "lesson": 29,
+    "kanji": "確か",
+    "kana": "たしか",
+    "meaning": "nếu nhớ không nhầm",
+    "hint": "Ghi nhớ: 確か（たしか）— nếu nhớ không nhầm.",
+    "example": ""
+  },
+  {
+    "id": "29-extra-31",
+    "lesson": 29,
+    "kanji": "地震",
+    "kana": "じしん",
+    "meaning": "động đất",
+    "hint": "Ghi nhớ: 地震（じしん）— động đất.",
+    "example": ""
+  },
+  {
+    "id": "29-extra-32",
+    "lesson": 29,
+    "kanji": "壁",
+    "kana": "かべ",
+    "meaning": "tường",
+    "hint": "Ghi nhớ: 壁（かべ）— tường.",
+    "example": ""
+  },
+  {
+    "id": "29-extra-33",
+    "lesson": 29,
+    "kanji": "針",
+    "kana": "はり",
+    "meaning": "kim; kim đồng hồ",
+    "hint": "Ghi nhớ: 針（はり）— kim; kim đồng hồ.",
+    "example": ""
+  },
+  {
+    "id": "29-extra-34",
+    "lesson": 29,
+    "kanji": "指します",
+    "kana": "さします",
+    "meaning": "chỉ (hướng)",
+    "hint": "Ghi nhớ: 指します（さします）— chỉ (hướng).",
+    "example": ""
+  },
+  {
+    "id": "29-extra-7",
+    "lesson": 29,
+    "kanji": "つきます",
+    "kana": "つきます",
+    "meaning": "được bật (đèn)",
+    "hint": "Ghi nhớ: つきます（つきます）— được bật (đèn).",
+    "example": ""
+  },
+  {
+    "id": "29-extra-8",
+    "lesson": 29,
+    "kanji": "消えます",
+    "kana": "きえます",
+    "meaning": "tắt; biến mất",
+    "hint": "Ghi nhớ: 消えます（きえます）— tắt; biến mất.",
+    "example": ""
+  },
+  {
+    "id": "29-extra-9",
+    "lesson": 29,
+    "kanji": "割れます",
+    "kana": "われます",
+    "meaning": "bị vỡ",
+    "hint": "Ghi nhớ: 割れます（われます）— bị vỡ.",
+    "example": ""
+  },
+  {
+    "id": "30-1",
+    "lesson": 30,
+    "kanji": "貼ります",
+    "kana": "はります",
+    "meaning": "dán",
+    "hint": "Tưởng tượng dán poster lên tường.",
+    "example": "ポスターを貼ります。"
+  },
+  {
+    "id": "30-2",
+    "lesson": 30,
+    "kanji": "飾ります",
+    "kana": "かざります",
+    "meaning": "trang trí",
+    "hint": "飾 gợi bày biện đẹp mắt.",
+    "example": "花を飾ります。"
+  },
+  {
+    "id": "30-3",
+    "lesson": 30,
+    "kanji": "植えます",
+    "kana": "うえます",
+    "meaning": "trồng",
+    "hint": "木 là cây.",
+    "example": "花を植えます。"
+  },
+  {
+    "id": "30-4",
+    "lesson": 30,
+    "kanji": "片づけます",
+    "kana": "かたづけます",
+    "meaning": "dọn dẹp",
+    "hint": "Gom đồ vào một phía cho gọn.",
+    "example": "部屋を片づけます。"
+  },
+  {
+    "id": "30-5",
+    "lesson": 30,
+    "kanji": "並べます",
+    "kana": "ならべます",
+    "meaning": "xếp bày",
+    "hint": "並 là xếp thành hàng.",
+    "example": "本を並べます。"
+  },
+  {
+    "id": "30-6",
+    "lesson": 30,
+    "kanji": "掛けます",
+    "kana": "かけます",
+    "meaning": "treo",
+    "hint": "扌 là tay: dùng tay treo áo.",
+    "example": "壁に絵を掛けます。"
+  },
+  {
+    "id": "30-7",
+    "lesson": 30,
+    "kanji": "育てます",
+    "kana": "そだてます",
+    "meaning": "nuôi dưỡng",
+    "hint": "育 là nuôi lớn.",
+    "example": "子どもを育てます。"
+  },
+  {
+    "id": "30-extra-10",
+    "lesson": 30,
+    "kanji": "しまいます",
+    "kana": "しまいます",
+    "meaning": "cất đi",
+    "hint": "Ghi nhớ: しまいます（しまいます）— cất đi.",
+    "example": ""
+  },
+  {
+    "id": "30-extra-11",
+    "lesson": 30,
+    "kanji": "決めます",
+    "kana": "きめます",
+    "meaning": "quyết định",
+    "hint": "Ghi nhớ: 決めます（きめます）— quyết định.",
+    "example": ""
+  },
+  {
+    "id": "30-extra-12",
+    "lesson": 30,
+    "kanji": "知らせます",
+    "kana": "しらせます",
+    "meaning": "thông báo",
+    "hint": "Ghi nhớ: 知らせます（しらせます）— thông báo.",
+    "example": ""
+  },
+  {
+    "id": "30-extra-13",
+    "lesson": 30,
+    "kanji": "相談します",
+    "kana": "そうだんします",
+    "meaning": "trao đổi; xin ý kiến",
+    "hint": "Ghi nhớ: 相談します（そうだんします）— trao đổi; xin ý kiến.",
+    "example": ""
+  },
+  {
+    "id": "30-extra-14",
+    "lesson": 30,
+    "kanji": "予習します",
+    "kana": "よしゅうします",
+    "meaning": "chuẩn bị bài trước",
+    "hint": "Ghi nhớ: 予習します（よしゅうします）— chuẩn bị bài trước.",
+    "example": ""
+  },
+  {
+    "id": "30-extra-15",
+    "lesson": 30,
+    "kanji": "復習します",
+    "kana": "ふくしゅうします",
+    "meaning": "ôn bài",
+    "hint": "Ghi nhớ: 復習します（ふくしゅうします）— ôn bài.",
+    "example": ""
+  },
+  {
+    "id": "30-extra-16",
+    "lesson": 30,
+    "kanji": "そのままにします",
+    "kana": "そのままにします",
+    "meaning": "để nguyên như vậy",
+    "hint": "Ghi nhớ: そのままにします（そのままにします）— để nguyên như vậy.",
+    "example": ""
+  },
+  {
+    "id": "30-extra-17",
+    "lesson": 30,
+    "kanji": "授業",
+    "kana": "じゅぎょう",
+    "meaning": "tiết học",
+    "hint": "Ghi nhớ: 授業（じゅぎょう）— tiết học.",
+    "example": ""
+  },
+  {
+    "id": "30-extra-18",
+    "lesson": 30,
+    "kanji": "講義",
+    "kana": "こうぎ",
+    "meaning": "bài giảng",
+    "hint": "Ghi nhớ: 講義（こうぎ）— bài giảng.",
+    "example": ""
+  },
+  {
+    "id": "30-extra-19",
+    "lesson": 30,
+    "kanji": "予定",
+    "kana": "よてい",
+    "meaning": "dự định; lịch",
+    "hint": "Ghi nhớ: 予定（よてい）— dự định; lịch.",
+    "example": ""
+  },
+  {
+    "id": "30-extra-20",
+    "lesson": 30,
+    "kanji": "お知らせ",
+    "kana": "おしらせ",
+    "meaning": "thông báo",
+    "hint": "Ghi nhớ: お知らせ（おしらせ）— thông báo.",
+    "example": ""
+  },
+  {
+    "id": "30-extra-21",
+    "lesson": 30,
+    "kanji": "案内書",
+    "kana": "あんないしょ",
+    "meaning": "sách hướng dẫn",
+    "hint": "Ghi nhớ: 案内書（あんないしょ）— sách hướng dẫn.",
+    "example": ""
+  },
+  {
+    "id": "30-extra-22",
+    "lesson": 30,
+    "kanji": "カレンダー",
+    "kana": "カレンダー",
+    "meaning": "lịch",
+    "hint": "Ghi nhớ: カレンダー（カレンダー）— lịch.",
+    "example": ""
+  },
+  {
+    "id": "30-extra-23",
+    "lesson": 30,
+    "kanji": "ポスター",
+    "kana": "ポスター",
+    "meaning": "áp phích",
+    "hint": "Ghi nhớ: ポスター（ポスター）— áp phích.",
+    "example": ""
+  },
+  {
+    "id": "30-extra-24",
+    "lesson": 30,
+    "kanji": "ごみ箱",
+    "kana": "ごみばこ",
+    "meaning": "thùng rác",
+    "hint": "Ghi nhớ: ごみ箱（ごみばこ）— thùng rác.",
+    "example": ""
+  },
+  {
+    "id": "30-extra-25",
+    "lesson": 30,
+    "kanji": "人形",
+    "kana": "にんぎょう",
+    "meaning": "búp bê",
+    "hint": "Ghi nhớ: 人形（にんぎょう）— búp bê.",
+    "example": ""
+  },
+  {
+    "id": "30-extra-26",
+    "lesson": 30,
+    "kanji": "花瓶",
+    "kana": "かびん",
+    "meaning": "lọ hoa",
+    "hint": "Ghi nhớ: 花瓶（かびん）— lọ hoa.",
+    "example": ""
+  },
+  {
+    "id": "30-extra-27",
+    "lesson": 30,
+    "kanji": "鏡",
+    "kana": "かがみ",
+    "meaning": "gương",
+    "hint": "Ghi nhớ: 鏡（かがみ）— gương.",
+    "example": ""
+  },
+  {
+    "id": "30-extra-28",
+    "lesson": 30,
+    "kanji": "引き出し",
+    "kana": "ひきだし",
+    "meaning": "ngăn kéo",
+    "hint": "Ghi nhớ: 引き出し（ひきだし）— ngăn kéo.",
+    "example": ""
+  },
+  {
+    "id": "30-extra-29",
+    "lesson": 30,
+    "kanji": "玄関",
+    "kana": "げんかん",
+    "meaning": "lối vào nhà",
+    "hint": "Ghi nhớ: 玄関（げんかん）— lối vào nhà.",
+    "example": ""
+  },
+  {
+    "id": "30-extra-30",
+    "lesson": 30,
+    "kanji": "廊下",
+    "kana": "ろうか",
+    "meaning": "hành lang",
+    "hint": "Ghi nhớ: 廊下（ろうか）— hành lang.",
+    "example": ""
+  },
+  {
+    "id": "30-extra-31",
+    "lesson": 30,
+    "kanji": "壁",
+    "kana": "かべ",
+    "meaning": "tường",
+    "hint": "Ghi nhớ: 壁（かべ）— tường.",
+    "example": ""
+  },
+  {
+    "id": "30-extra-32",
+    "lesson": 30,
+    "kanji": "池",
+    "kana": "いけ",
+    "meaning": "ao",
+    "hint": "Ghi nhớ: 池（いけ）— ao.",
+    "example": ""
+  },
+  {
+    "id": "30-extra-33",
+    "lesson": 30,
+    "kanji": "交番",
+    "kana": "こうばん",
+    "meaning": "đồn cảnh sát nhỏ",
+    "hint": "Ghi nhớ: 交番（こうばん）— đồn cảnh sát nhỏ.",
+    "example": ""
+  },
+  {
+    "id": "30-extra-34",
+    "lesson": 30,
+    "kanji": "元の所",
+    "kana": "もとのところ",
+    "meaning": "chỗ ban đầu",
+    "hint": "Ghi nhớ: 元の所（もとのところ）— chỗ ban đầu.",
+    "example": ""
+  },
+  {
+    "id": "30-extra-35",
+    "lesson": 30,
+    "kanji": "周り",
+    "kana": "まわり",
+    "meaning": "xung quanh",
+    "hint": "Ghi nhớ: 周り（まわり）— xung quanh.",
+    "example": ""
+  },
+  {
+    "id": "30-extra-36",
+    "lesson": 30,
+    "kanji": "真ん中",
+    "kana": "まんなか",
+    "meaning": "chính giữa",
+    "hint": "Ghi nhớ: 真ん中（まんなか）— chính giữa.",
+    "example": ""
+  },
+  {
+    "id": "30-extra-37",
+    "lesson": 30,
+    "kanji": "隅",
+    "kana": "すみ",
+    "meaning": "góc",
+    "hint": "Ghi nhớ: 隅（すみ）— góc.",
+    "example": ""
+  },
+  {
+    "id": "30-extra-38",
+    "lesson": 30,
+    "kanji": "まだ",
+    "kana": "まだ",
+    "meaning": "vẫn; chưa",
+    "hint": "Ghi nhớ: まだ（まだ）— vẫn; chưa.",
+    "example": ""
+  },
+  {
+    "id": "30-extra-39",
+    "lesson": 30,
+    "kanji": "ほど",
+    "kana": "ほど",
+    "meaning": "khoảng; mức độ",
+    "hint": "Ghi nhớ: ほど（ほど）— khoảng; mức độ.",
+    "example": ""
+  },
+  {
+    "id": "30-extra-8",
+    "lesson": 30,
+    "kanji": "戻します",
+    "kana": "もどします",
+    "meaning": "đặt trở lại",
+    "hint": "Ghi nhớ: 戻します（もどします）— đặt trở lại.",
+    "example": ""
+  },
+  {
+    "id": "30-extra-9",
+    "lesson": 30,
+    "kanji": "まとめます",
+    "kana": "まとめます",
+    "meaning": "gom lại; tổng hợp",
+    "hint": "Ghi nhớ: まとめます（まとめます）— gom lại; tổng hợp.",
+    "example": ""
+  },
+  {
+    "id": "31-1",
+    "lesson": 31,
+    "kanji": "足ります",
+    "kana": "たります",
+    "meaning": "đủ",
+    "hint": "足 vừa là chân vừa mang nghĩa đủ.",
+    "example": "お金が足ります。"
+  },
+  {
+    "id": "31-2",
+    "lesson": 31,
+    "kanji": "続けます",
+    "kana": "つづけます",
+    "meaning": "tiếp tục",
+    "hint": "糸 là sợi chỉ kéo dài liên tục.",
+    "example": "勉強を続けます。"
+  },
+  {
+    "id": "31-3",
+    "lesson": 31,
+    "kanji": "見つけます",
+    "kana": "みつけます",
+    "meaning": "tìm thấy",
+    "hint": "見 là nhìn: nhìn và phát hiện ra.",
+    "example": "鍵を見つけました。"
+  },
+  {
+    "id": "31-4",
+    "lesson": 31,
+    "kanji": "受けます",
+    "kana": "うけます",
+    "meaning": "nhận hoặc dự thi",
+    "hint": "Tưởng tượng đưa hai tay ra nhận.",
+    "example": "試験を受けます。"
+  },
+  {
+    "id": "31-5",
+    "lesson": 31,
+    "kanji": "気がつきます",
+    "kana": "きがつきます",
+    "meaning": "nhận ra",
+    "hint": "気 là sự chú ý.",
+    "example": "間違いに気がつきました。"
+  },
+  {
+    "id": "31-6",
+    "lesson": 31,
+    "kanji": "残ります",
+    "kana": "のこります",
+    "meaning": "còn lại",
+    "hint": "Nokoru nghe như 'nó còn'.",
+    "example": "ケーキが残りました。"
+  },
+  {
+    "id": "31-extra-10",
+    "lesson": 31,
+    "kanji": "出席します",
+    "kana": "しゅっせきします",
+    "meaning": "tham dự; có mặt",
+    "hint": "Ghi nhớ: 出席します（しゅっせきします）— tham dự; có mặt.",
+    "example": ""
+  },
+  {
+    "id": "31-extra-11",
+    "lesson": 31,
+    "kanji": "休憩します",
+    "kana": "きゅうけいします",
+    "meaning": "nghỉ giải lao",
+    "hint": "Ghi nhớ: 休憩します（きゅうけいします）— nghỉ giải lao.",
+    "example": ""
+  },
+  {
+    "id": "31-extra-12",
+    "lesson": 31,
+    "kanji": "連休",
+    "kana": "れんきゅう",
+    "meaning": "kỳ nghỉ nhiều ngày",
+    "hint": "Ghi nhớ: 連休（れんきゅう）— kỳ nghỉ nhiều ngày.",
+    "example": ""
+  },
+  {
+    "id": "31-extra-13",
+    "lesson": 31,
+    "kanji": "作文",
+    "kana": "さくぶん",
+    "meaning": "bài văn",
+    "hint": "Ghi nhớ: 作文（さくぶん）— bài văn.",
+    "example": ""
+  },
+  {
+    "id": "31-extra-14",
+    "lesson": 31,
+    "kanji": "展覧会",
+    "kana": "てんらんかい",
+    "meaning": "triển lãm",
+    "hint": "Ghi nhớ: 展覧会（てんらんかい）— triển lãm.",
+    "example": ""
+  },
+  {
+    "id": "31-extra-15",
+    "lesson": 31,
+    "kanji": "結婚式",
+    "kana": "けっこんしき",
+    "meaning": "lễ cưới",
+    "hint": "Ghi nhớ: 結婚式（けっこんしき）— lễ cưới.",
+    "example": ""
+  },
+  {
+    "id": "31-extra-16",
+    "lesson": 31,
+    "kanji": "お葬式",
+    "kana": "おそうしき",
+    "meaning": "đám tang",
+    "hint": "Ghi nhớ: お葬式（おそうしき）— đám tang.",
+    "example": ""
+  },
+  {
+    "id": "31-extra-17",
+    "lesson": 31,
+    "kanji": "式",
+    "kana": "しき",
+    "meaning": "buổi lễ",
+    "hint": "Ghi nhớ: 式（しき）— buổi lễ.",
+    "example": ""
+  },
+  {
+    "id": "31-extra-18",
+    "lesson": 31,
+    "kanji": "本社",
+    "kana": "ほんしゃ",
+    "meaning": "trụ sở chính",
+    "hint": "Ghi nhớ: 本社（ほんしゃ）— trụ sở chính.",
+    "example": ""
+  },
+  {
+    "id": "31-extra-19",
+    "lesson": 31,
+    "kanji": "支店",
+    "kana": "してん",
+    "meaning": "chi nhánh",
+    "hint": "Ghi nhớ: 支店（してん）— chi nhánh.",
+    "example": ""
+  },
+  {
+    "id": "31-extra-20",
+    "lesson": 31,
+    "kanji": "教会",
+    "kana": "きょうかい",
+    "meaning": "nhà thờ",
+    "hint": "Ghi nhớ: 教会（きょうかい）— nhà thờ.",
+    "example": ""
+  },
+  {
+    "id": "31-extra-21",
+    "lesson": 31,
+    "kanji": "大学院",
+    "kana": "だいがくいん",
+    "meaning": "cao học",
+    "hint": "Ghi nhớ: 大学院（だいがくいん）— cao học.",
+    "example": ""
+  },
+  {
+    "id": "31-extra-22",
+    "lesson": 31,
+    "kanji": "動物園",
+    "kana": "どうぶつえん",
+    "meaning": "sở thú",
+    "hint": "Ghi nhớ: 動物園（どうぶつえん）— sở thú.",
+    "example": ""
+  },
+  {
+    "id": "31-extra-23",
+    "lesson": 31,
+    "kanji": "温泉",
+    "kana": "おんせん",
+    "meaning": "suối nước nóng",
+    "hint": "Ghi nhớ: 温泉（おんせん）— suối nước nóng.",
+    "example": ""
+  },
+  {
+    "id": "31-extra-24",
+    "lesson": 31,
+    "kanji": "お客さん",
+    "kana": "おきゃくさん",
+    "meaning": "khách",
+    "hint": "Ghi nhớ: お客さん（おきゃくさん）— khách.",
+    "example": ""
+  },
+  {
+    "id": "31-extra-25",
+    "lesson": 31,
+    "kanji": "誰か",
+    "kana": "だれか",
+    "meaning": "ai đó",
+    "hint": "Ghi nhớ: 誰か（だれか）— ai đó.",
+    "example": ""
+  },
+  {
+    "id": "31-extra-26",
+    "lesson": 31,
+    "kanji": "どこか",
+    "kana": "どこか",
+    "meaning": "nơi nào đó",
+    "hint": "Ghi nhớ: どこか（どこか）— nơi nào đó.",
+    "example": ""
+  },
+  {
+    "id": "31-extra-27",
+    "lesson": 31,
+    "kanji": "ずっと",
+    "kana": "ずっと",
+    "meaning": "suốt; mãi",
+    "hint": "Ghi nhớ: ずっと（ずっと）— suốt; mãi.",
+    "example": ""
+  },
+  {
+    "id": "31-extra-28",
+    "lesson": 31,
+    "kanji": "戻ります",
+    "kana": "もどります",
+    "meaning": "quay trở lại",
+    "hint": "Ghi nhớ: 戻ります（もどります）— quay trở lại.",
+    "example": ""
+  },
+  {
+    "id": "31-extra-29",
+    "lesson": 31,
+    "kanji": "見つかります",
+    "kana": "みつかります",
+    "meaning": "được tìm thấy",
+    "hint": "Ghi nhớ: 見つかります（みつかります）— được tìm thấy.",
+    "example": ""
+  },
+  {
+    "id": "31-extra-7",
+    "lesson": 31,
+    "kanji": "始まります",
+    "kana": "はじまります",
+    "meaning": "bắt đầu",
+    "hint": "Ghi nhớ: 始まります（はじまります）— bắt đầu.",
+    "example": ""
+  },
+  {
+    "id": "31-extra-8",
+    "lesson": 31,
+    "kanji": "入学します",
+    "kana": "にゅうがくします",
+    "meaning": "nhập học",
+    "hint": "Ghi nhớ: 入学します（にゅうがくします）— nhập học.",
+    "example": ""
+  },
+  {
+    "id": "31-extra-9",
+    "lesson": 31,
+    "kanji": "卒業します",
+    "kana": "そつぎょうします",
+    "meaning": "tốt nghiệp",
+    "hint": "Ghi nhớ: 卒業します（そつぎょうします）— tốt nghiệp.",
+    "example": ""
+  }
+]

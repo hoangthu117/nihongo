@@ -1,0 +1,164 @@
+[
+  {
+    "lesson": 26,
+    "title": "～んです",
+    "usage": "Văn nói giải thích hoàn cảnh, lý do; cũng dùng khi hỏi nguyên nhân với sự quan tâm.",
+    "formula": "V thể thường + んです / Aい + んです / Aな・N + なんです",
+    "example": "どうしたんですか。",
+    "translation": "Có chuyện gì vậy?",
+    "pitfall": "Không dùng だ trước んです với danh từ và tính từ な."
+  },
+  {
+    "lesson": 26,
+    "title": "～ていただけませんか",
+    "usage": "Nhờ vả lịch sự, mềm hơn ～てください.",
+    "formula": "Vて + いただけませんか",
+    "example": "もう一度説明していただけませんか。",
+    "translation": "Bạn có thể giải thích thêm một lần được không?",
+    "pitfall": "Không nhầm với ～てもいいですか (xin phép)."
+  },
+  {
+    "lesson": 26,
+    "title": "～たらいいですか",
+    "usage": "Xin lời khuyên: nên làm thế nào?",
+    "formula": "Từ nghi vấn + Vたらいいですか",
+    "example": "どこで切符を買ったらいいですか。",
+    "translation": "Tôi nên mua vé ở đâu?",
+    "pitfall": "Động từ phải ở thể た, không phải thể て."
+  },
+  {
+    "lesson": 27,
+    "title": "可能形",
+    "usage": "Diễn tả khả năng làm được việc gì.",
+    "formula": "Nhóm 1: う→え+る; nhóm 2: bỏ る+られる; する→できる; 来る→来られる",
+    "example": "日本語が話せます。",
+    "translation": "Tôi có thể nói tiếng Nhật.",
+    "pitfall": "Trợ từ を thường đổi thành が với khả năng."
+  },
+  {
+    "lesson": 27,
+    "title": "～が見えます・聞こえます",
+    "usage": "Nhìn thấy hoặc nghe thấy một cách tự nhiên, không phải cố gắng.",
+    "formula": "N が 見えます／聞こえます",
+    "example": "窓から山が見えます。",
+    "translation": "Có thể nhìn thấy núi từ cửa sổ.",
+    "pitfall": "Phân biệt 見られます (có khả năng/xem được) với 見えます."
+  },
+  {
+    "lesson": 27,
+    "title": "～しか～ません",
+    "usage": "Chỉ có một lượng giới hạn; đi với phủ định.",
+    "formula": "N + しか + Vません",
+    "example": "千円しかありません。",
+    "translation": "Tôi chỉ có 1.000 yên.",
+    "pitfall": "Không dùng しか với dạng khẳng định."
+  },
+  {
+    "lesson": 28,
+    "title": "～ながら",
+    "usage": "Hai hành động đồng thời, cùng một chủ thể.",
+    "formula": "Vます bỏ ます + ながら + V chính",
+    "example": "音楽を聞きながら勉強します。",
+    "translation": "Tôi vừa nghe nhạc vừa học.",
+    "pitfall": "Hành động chính nằm ở cuối câu."
+  },
+  {
+    "lesson": 28,
+    "title": "～し、～し",
+    "usage": "Liệt kê nhiều lý do hoặc đặc điểm.",
+    "formula": "Thể thường + し、thể thường + し",
+    "example": "この店は安いし、おいしいし、人気があります。",
+    "translation": "Quán này vừa rẻ vừa ngon nên được yêu thích.",
+    "pitfall": "Với N/Aな dùng だし ở văn nói thường."
+  },
+  {
+    "lesson": 28,
+    "title": "～ています (thói quen)",
+    "usage": "Mô tả việc lặp lại hoặc thói quen.",
+    "formula": "Vて + います",
+    "example": "毎朝走っています。",
+    "translation": "Tôi chạy bộ mỗi sáng.",
+    "pitfall": "Không phải mọi ～ています đều có nghĩa đang làm ngay lúc nói."
+  },
+  {
+    "lesson": 29,
+    "title": "Tự động từ + ～ています",
+    "usage": "Trạng thái còn lại sau một thay đổi.",
+    "formula": "N が + tự động từ thể て + います",
+    "example": "ドアが開いています。",
+    "translation": "Cửa đang mở (ở trạng thái mở).",
+    "pitfall": "Phân biệt 開いています với 開けています."
+  },
+  {
+    "lesson": 29,
+    "title": "～てしまいました",
+    "usage": "Việc đã hoàn tất; đôi khi thể hiện tiếc nuối.",
+    "formula": "Vて + しまいました",
+    "example": "財布をなくしてしまいました。",
+    "translation": "Tôi lỡ làm mất ví rồi.",
+    "pitfall": "Không phải lúc nào ～てしまう cũng mang nghĩa tiếc nuối."
+  },
+  {
+    "lesson": 30,
+    "title": "～てあります",
+    "usage": "Trạng thái là kết quả của hành động có chủ ý.",
+    "formula": "N が + tha động từ thể て + あります",
+    "example": "壁にポスターが貼ってあります。",
+    "translation": "Áp phích đã được dán trên tường.",
+    "pitfall": "Dùng tha động từ; phân biệt với tự động từ + ています."
+  },
+  {
+    "lesson": 30,
+    "title": "～ておきます",
+    "usage": "Làm trước để chuẩn bị hoặc giữ nguyên tình trạng.",
+    "formula": "Vて + おきます",
+    "example": "旅行の前にホテルを予約しておきます。",
+    "translation": "Tôi đặt khách sạn trước chuyến đi.",
+    "pitfall": "Không nhầm với ～ています (đang/trạng thái)."
+  },
+  {
+    "lesson": 30,
+    "title": "まだ～ています",
+    "usage": "Trạng thái vẫn tiếp diễn.",
+    "formula": "まだ + Vています",
+    "example": "まだ雨が降っています。",
+    "translation": "Trời vẫn đang mưa.",
+    "pitfall": "まだ đi với ngữ cảnh trạng thái chưa kết thúc."
+  },
+  {
+    "lesson": 31,
+    "title": "意向形",
+    "usage": "Thể ý chí: rủ rê hoặc thể hiện ý định.",
+    "formula": "Nhóm 1: う→お+う; nhóm 2: bỏ る+よう; する→しよう; 来る→来よう",
+    "example": "いっしょに帰ろう。",
+    "translation": "Cùng về nhé!",
+    "pitfall": "Phân biệt với thể khả năng (え段)."
+  },
+  {
+    "lesson": 31,
+    "title": "～ようと思っています",
+    "usage": "Diễn tả ý định đã suy nghĩ và đang giữ.",
+    "formula": "V ý chí + と思っています",
+    "example": "来年日本へ行こうと思っています。",
+    "translation": "Tôi đang dự định năm sau đi Nhật.",
+    "pitfall": "Khác ～と思います thường là quyết định tức thời."
+  },
+  {
+    "lesson": 31,
+    "title": "～つもりです",
+    "usage": "Dự định tương đối rõ ràng.",
+    "formula": "V từ điển / Vない + つもりです",
+    "example": "週末に日本語を勉強するつもりです。",
+    "translation": "Tôi dự định học tiếng Nhật cuối tuần.",
+    "pitfall": "Không ghép trực tiếp thể ます + つもり."
+  },
+  {
+    "lesson": 31,
+    "title": "～予定です",
+    "usage": "Kế hoạch hoặc lịch trình đã được định.",
+    "formula": "V từ điển / N の + 予定です",
+    "example": "来月出張する予定です。",
+    "translation": "Tháng sau tôi có kế hoạch đi công tác.",
+    "pitfall": "予定 nhấn mạnh lịch trình hơn ý muốn."
+  }
+]
